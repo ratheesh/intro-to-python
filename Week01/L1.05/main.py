@@ -1,0 +1,12 @@
+print("Enter your Name: ")
+n = str(input())
+print("Hello", n, "How are you?")
+print("Which place are you in?")
+p = str(input())
+# print("I am in ", p)
+print("Hello", n, "How is the weather in", p)
+
+print("What is your age: ")
+age = int(input())
+# print("age is", age)
+print("Good to know that, you are", age, "years old!")
